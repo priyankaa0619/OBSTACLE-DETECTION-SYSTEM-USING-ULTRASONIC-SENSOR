@@ -118,7 +118,8 @@ void loop()
 
 ## Output:
 
-https://github.com/user-attachments/assets/b3b466e1-7bbf-4f49-835d-dc5bc40bd063
+<img width="1600" height="738" alt="image" src="https://github.com/user-attachments/assets/85f0818e-6f93-40b0-886c-db146d1c47eb" />
+
 
 ## Result
 
